@@ -2,7 +2,23 @@
 
 ESP32-basiertes RC-Soundmodul mit I2S-Audioausgabe, SD-Karten-Wiedergabe, WLAN-Weboberfläche, CRSF-Parametersystem und optionaler LiPo-Telemetrie über FrSky S.Port sowie GPS-Geschwindigkeitsmessung.
 
-**Aktuelle Version:** v2.22 · **Autor:** PiperPilot (ab v0.70) / Ziege-One – Der RC-Modellbauer (v0.45)
+**Beschriebene Version:** v2.22 (neuestes Archiv: v2.23) · **Autor:** PiperPilot (ab v0.70) / Ziege-One – Der RC-Modellbauer (v0.45)
+
+---
+
+## Über dieses Repo
+
+Archiv älterer Stände des Soundmoduls. Jede ZIP enthält den kompletten Arduino-Sketch-Ordner `ESP32-RC-Sound` mit eigener README. Weiterentwickelt wird die V7-Linie im Repo [mnorden81-ESP32-Sound-bidirectional_code](https://github.com/mnorden81/mnorden81-ESP32-Sound-bidirectional_code).
+
+| Datei | Version |
+|---|---|
+| `ESP32-RC-Sound-0_46.zip` | v0.46 |
+| `ESP32-RC-Sound-0_72.zip` | v0.72 |
+| `ESP32-RC-Sound-0_87.zip` | v0.87 |
+| `ESP32-RC-Sound-1_26.zip` | v1.26 |
+| `ESP32-RC-Sound-2_23.zip` | v2.23 (gegenüber v2.22: Web-UI zeigte gespeicherte Werte in Einstellungen, WiFi und LiPo/S.Port nicht an) |
+
+Projektbeschreibung als Word-Dokument: [`Projektbeschreibung.docx`](Projektbeschreibung.docx)
 
 ---
 
